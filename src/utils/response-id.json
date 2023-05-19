@@ -1,0 +1,195 @@
+{
+    "title": "Senior Backend developer for innovation projects",
+    "id": "b9e56b2bb9474e831c17eb706cd133",
+    "state": 1,
+    "creationDate": "2023-03-24T13:10:53.000+0000",
+    "updateDate": "2023-05-19T16:00:02.000+0000",
+    "city": "Barcelona",
+    "externalUrlForm": "",
+    "blocked": false,
+    "applications": 5,
+    "province": {
+       "id": 9,
+       "value": "Barcelona"
+    },
+    "experienceMin": {
+       "id": 5,
+       "value": "Más de 5 años"
+    },
+    "category": {
+       "id": 150,
+       "value": "Informática y telecomunicaciones"
+    },
+    "subcategory": {
+       "id": 3124,
+       "value": "Programación"
+    },
+    "studiesMin": {
+       "id": 130,
+       "value": "Ingeniería Superior"
+    },
+    "residence": {
+       "id": 0,
+       "value": "(Seleccionar)"
+    },
+    "country": {
+       "id": 17,
+       "value": "España"
+    },
+    "contractType": {
+       "id": 1,
+       "value": "Indefinido"
+    },
+    "journey": {
+       "id": 1,
+       "value": "Completa"
+    },
+    "subSegment": 22,
+    "profile": {
+       "id": "98545350575156831129712012066570303702",
+       "name": "Sparsity Technologies",
+       "description": "Sparsity es una empresa joven spin-off de la Universidad Politécnica de Catalunya que actualmente trabaja en temas de Smart Mobility, Smart Cities, IOT y Gestión de flotas inteligentes. Combinamos la experiencia en investigación en la Universidad con profesionales de la industria. Ofrecemos un entorno muy agradable, con otros ingenieros que tienen una gran experiencia en el sector, con la posibilidad de aprender y trabajar en las últimas tecnologías.",
+       "province": {
+          "id": 9,
+          "value": "Barcelona"
+       },
+       "web": "NO",
+       "numberWorkers": 4,
+       "url": "NO",
+       "corporateWebsiteUrl": "/sparsity-technologies/em-i98545350575156831129712012066570303702",
+       "websiteUrl": "",
+       "hidden": false,
+       "typeIndustry": {
+          "id": 10,
+          "value": "Programación, Consultoria y otras Activ. informaticas"
+       },
+       "country": {
+          "id": 17,
+          "value": "España"
+       },
+       "corporateResponsive": false,
+       "showCorporativeHeader": false,
+       "clientId": 1713562168380,
+       "followable": true
+    },
+    "cityPD": 7824,
+    "zipCode": "08028",
+    "latitude": 0,
+    "longitude": 0,
+    "exactLocation": false,
+    "department": "",
+    "vacancies": 1,
+    "minRequirements": "-5+ years of experience in Python and back-end development.
+ - 3+ years of experience working with Django/Flask or similar web frameworks.
+ - Strong unit test and debugging skills.
+ - A good command of SQL and database technology.
+ - Ability to integrate multiple data sources and databases into one system.
+ - Proficient understanding of code versioning tools.
+ - Strong knowledge of UNIX/Linux environments.
+ - Experience working with Docker.
+ - Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3.
+ - Experience with repositories and ticketing systems (Bitbucket, Jira, GitHub, etc).
+ - Testing with Postman.
+ - Good leadership and communication skills, both verbal and written.
+ - Proficiency in English language.
+ - Bachelor degree in Computer Science, Engineering, or similar.
+ Plus (not mandatory):
+ - Basic knowledge of some of the modern JS web frameworks (e.g. React, Vue.js, Angular).
+ - Familiarity with distributed streaming platforms such as Apache Kafka.
+ - Experience with Smart Contracts / Blockchain technologies.
+ - MSc or PhD in Computer Science.
+ 
+ What are my benefits
+ - Working in a company with significant innovation potential.
+ - Being part of a friendly working environment that is very flexible.
+ - Work in a multicultural environment and a multidisciplinary team.
+ - Growth in a highly technological environment.
+ - Agreement to work remotely open to discussion and create your own schedule",
+    "description": "We are looking for an experienced developer to join our development team. If you have great programming skills and a passion for developing applications and its architectures, we would like to meet you! As a developer in our company you will be working on several products related to smart contract frameworks, route optimisation and logistics, so any knowledge related to vehicle routing problems is welcome (but not mandatory!).
+ The ideal candidate will be a dynamic person with an engineering or technical background with good team working skills yet able to work individually, motivated and with a high level of commitment. 
+ Your duties will primarily revolve around building new backend software (including the design of architectures) by writing code, as well as modifying software to fix errors, create new functionalities, services and improve their performance, etc.... You will also be involved with code testing and validation procedures and cloud deployment.
+ To be successful in this role, you will need a good knowledge of programming languages, cloud architectures implementation and the software development life-cycle, as well as being eager to learn new technologies. A bachelor's degree in computer science or related is preferred.
+ The team where you will be integrated is an international remote-working group of young developers with experience in different aspects of software development. The company is based in Barcelona.",
+    "desiredRequirements": "",
+    "commissions": "",
+    "contractDuration": "",
+    "referenceId": "",
+    "detailedStudiesId": 114,
+    "studying": false,
+    "showPay": true,
+    "multiProvince": false,
+    "maxPay": {
+       "amount": 40000,
+       "amountId": 960,
+       "periodId": 3,
+       "periodValue": "Bruto/año",
+       "amountValue": "40.000 €"
+    },
+    "minPay": {
+       "amount": 30000,
+       "amountId": 280,
+       "periodId": 3,
+       "periodValue": "Bruto/año",
+       "amountValue": "30.000 €"
+    },
+    "schedule": "",
+    "jobLevel": {
+       "id": 2,
+       "value": "Empleado/a"
+    },
+    "staffInCharge": {
+       "id": 1,
+       "value": "0"
+    },
+    "hasKillerQuestions": 0,
+    "hasOpenQuestions": 0,
+    "upsellings": {
+       "highlightHomeMonth": false,
+       "highlightHomeWeek": false,
+       "highlightSubcategory": false,
+       "highlightLogo": false,
+       "highlightColor": false,
+       "highlightUrgent": false,
+       "highlightStandingOffer": false
+    },
+    "epreselec": false,
+    "fiscalAddress": "COMTE DE GÜELL, 40, BAIXOS, 08028 BARCELONA (BARCELONA), BARCELONA, España",
+    "shouldAskExportConsent": true,
+    "exportConsentName": "::1713562168380",
+    "link": "https://www.infojobs.net/barcelona/senior-backend-developer-for-innovation-projects/of-ib9e56b2bb9474e831c17eb706cd133",
+    "active": true,
+    "archived": false,
+    "deleted": false,
+    "disponibleForFullVisualization": true,
+    "availableForVisualization": true,
+    "skillsList": [
+       {
+          "skill": "Python"
+       },
+       {
+          "skill": "Django"
+       },
+       {
+          "skill": "Flask"
+       },
+       {
+          "skill": "SQL"
+       },
+       {
+          "skill": "Software"
+       },
+       {
+          "skill": "Apache"
+       },
+       {
+          "skill": "Docker"
+       },
+       {
+          "skill": "JavaScript"
+       },
+       {
+          "skill": "Postman"
+       }
+    ],
+    "salaryDescription": "30.000€ - 40.000€ Bruto/año"
+ }

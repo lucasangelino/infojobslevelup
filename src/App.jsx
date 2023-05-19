@@ -1,12 +1,17 @@
 import "./App.css";
 import { Card, Text, Metric } from "@tremor/react";
+import { AppLayout } from "./components/layout/AppLayout";
 import { PageLayout } from "./components/layout/PageLayout";
+
+import { Main } from "./pages/Main";
 
 function App() {
   return (
-    <PageLayout>
-      <h1>Main</h1>
-    </PageLayout>
+    <AppLayout>
+      <PageLayout>
+        <Main />
+      </PageLayout>
+    </AppLayout>
   );
 }
 

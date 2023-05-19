@@ -1,0 +1,1419 @@
+{
+  "currentPage": 1,
+  "pageSize": 20,
+  "totalResults": 4988,
+  "currentResults": 20,
+  "totalPages": 114,
+  "availableSortingMethods": ["updated-desc"],
+  "sortBy": "updated-desc",
+  "sinceDate": "ANY",
+  "dataLayer": {
+    "offer_search_page": "1",
+    "offer_search_page_limit": "20",
+    "search_category": "150",
+    "region_level2_id": "0"
+  },
+  "queryParameters": {
+    "study": [],
+    "province": ["seleccionar"],
+    "salaryPeriod": "seleccionar",
+    "city": [],
+    "contractType": [],
+    "query": "",
+    "experienceMin": [],
+    "category": ["informatica-telecomunicaciones"],
+    "workDay": [],
+    "teleworking": []
+  },
+  "eligibleForAutomaticAlertCreation": false,
+  "offers": [
+    {
+      "id": "bfcc2cca3a44bea0ee2bc9d48c647e",
+      "title": "Programador/a Web J2EE",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/programador-web-j2ee/of-ibfcc2cca3a44bea0ee2bc9d48c647e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-04-14T15:25:44.000Z",
+      "updated": "2023-05-19T17:30:02.000Z",
+      "author": {
+        "id": "966753524526202750113215751508",
+        "privateId": 131025515,
+        "name": "atm2 informática",
+        "uri": "https://www.infojobs.net/atm2-informatica/em-i966753524526202750113215751508",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/66/66d1219e-9fd0-49d1-9d1e-7a20c59c8759?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0MzU0MDIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy82Ni82NmQxMjE5ZS05ZmQwLTQ5ZDEtOWQxZS03YTIwYzU5Yzg3NTkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.KXPoSVsNKbbcsjzfu9s0AEyP_iyCOzzMzcXS346pA5pz_f3kgBqsW-NkUhUrntKC-t8cpYKTatm-X4rIz0KFm9x69KizEA_8VE8_4kromKqNkYeG2iBFeZFcMk9Ol9_htY9TkoulQ307pD9-S6EVB1sFdoqAKcetPSDHa0vSXkWHsBWLKgsdSXhwm03zphXhHCl8IZK0bq0kkkc5x91p1ckYXGD53DgAizAKZ3xs4LK9kOXB7ScuEOfa2YdCknxRclqkUXD_YZnr18xEGUl2rxV04faSLQUKnSMp3XfXOCHijeLSX5bEJXT2imw5qfNtV3NJWre34L6Fe_BdkNEsgg&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "bacd6510954d539fefe821bd341d13",
+      "title": "Programador",
+      "province": {
+        "id": 49,
+        "value": "Valencia/Val??ncia"
+      },
+      "city": "Valencia",
+      "link": "https://www.infojobs.net/valencia/programador/of-ibacd6510954d539fefe821bd341d13",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 4,
+        "value": "Al menos 4 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-03-31T14:05:10.000Z",
+      "updated": "2023-05-19T17:30:02.000Z",
+      "author": {
+        "id": "66575454495057736877329008173719300781",
+        "privateId": 7710307896,
+        "name": "IDM SISTEMAS DE COMUNICACION S.L.",
+        "uri": "https://www.infojobs.net/idm-sistemas-de-comunicacion-s.l./em-i66575454495057736877329008173719300781",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "0c53ee98b14c108b0126fdc68dc4b9",
+      "title": "Tech Lead (Híbrido Madrid)",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/tech-lead-hibrido-madrid/of-i0c53ee98b14c108b0126fdc68dc4b9",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-19T17:27:34.000Z",
+      "updated": "2023-05-19T17:27:34.000Z",
+      "author": {
+        "id": "98494855524249657684696022064381807649",
+        "privateId": 44799928792,
+        "name": "Alter Solutions",
+        "uri": "https://www.infojobs.net/alter-solutions/em-i98494855524249657684696022064381807649",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "68db6a0b854ad7916be09968c64f21",
+      "title": "Consultor SAP SuccessFactors Employee Central",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/consultor-sap-successfactors-employee-central/of-i68db6a0b854ad7916be09968c64f21",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 8,
+        "value": "De duración determinada"
+      },
+      "subcategory": {
+        "id": 3106,
+        "value": "Análisis"
+      },
+      "salaryMin": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryMax": {
+        "id": 990,
+        "value": "45.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 2,
+        "value": "Solo teletrabajo"
+      },
+      "published": "2023-05-19T17:18:46.000Z",
+      "updated": "2023-05-19T17:18:46.000Z",
+      "author": {
+        "id": "98545356534456651031053017153427801355",
+        "privateId": 30883840660,
+        "name": "addSolutions",
+        "uri": "https://www.infojobs.net/addsolutions/em-i98545356534456651031053017153427801355",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a9/a9c94718-6ee8-4319-94a4-3c7e826650d1?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NjIyNDMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hOS9hOWM5NDcxOC02ZWU4LTQzMTktOTRhNC0zYzdlODI2NjUwZDEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.GxvJbYxmQzMGCxzf4qKFky2S921v5doi7CIS5oMOGKyZ11xVnR_8NC1vOhcW5ijp61zQQtDdgvbc8LP_pphs31dmwmB9M9gjP3rXlotUGrZjAqC31mxmHcz6NMW_f8-3J9zSi4hNasjqstNEE954v3KL6njz6Pv9t470_-PyuHkIpXlGK9jlokpzPcRZs0popkycYPLmBaJWNiaJoS9g2QIiD-D9LfYP5oxXZZx_L2Zw-96AmLXCVl5GFfrVicc6Ey7-BpVd0hiBi6PpJdqhsOci-qmudDPRHzl0Lppg-qYTFo_0dSFpNOhmxpV7yrWl1bxpueviGXusc6bkeUL1Gw&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "36.000€ - 45.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "a3d5266aec4b32b33896487732ccf8",
+      "title": "Programador .NET",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/programador-.net/of-ia3d5266aec4b32b33896487732ccf8",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-19T17:10:35.000Z",
+      "updated": "2023-05-19T17:10:35.000Z",
+      "author": {
+        "id": "969557424526202950933215454792",
+        "privateId": 48391386,
+        "name": "SEREM Consultoría Empresarial",
+        "uri": "https://serem.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/5c/5cb8352d-cb38-4e20-9186-5cebabc00fec?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM2MDMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81Yy81Y2I4MzUyZC1jYjM4LTRlMjAtOTE4Ni01Y2ViYWJjMDBmZWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.JnL2QyPcNw_1VLdtanuxQdcjkn8LoKZIEso3fnqkK60DMQ5AWB59ITC-Xt9j9En6rPo8Ldnp5Oiez4By_Ge4bCoZVU5gXatBzsslVOHhUUa8mytutmtybitfy7a8mt6FKTxcQ4xYp0TM3hQ-39oyGRYGuGZ8ZhEmq79KdQF5dT659P16GDPSO19ix6lJJTnnkvijrr6HYAEyz8eNcjGQknJQQaSMXjie8Dmw6NXXIk0aUIggsWsE-cfRizs7XYc2_j7LlyB2SLsqQNZtOaDiAA1ZxCybJ-3-cwRytAb1UlQ22YhxvN_L4gn81Mnfq4KOynpgH28bAmUclfhR6VzrJQ&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": true,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Experiencia con .Net. .- Experiencia con .SQL. .- Experiencia con Android/IOS. .- Valorable Experiencia en el sector logístico/transporte.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "a0c3cff61443b2bbc8126849a7308d",
+      "title": "Desarrollador/a Android",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/desarrollador-android/of-ia0c3cff61443b2bbc8126849a7308d",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryMax": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 2,
+        "value": "Solo teletrabajo"
+      },
+      "published": "2023-05-19T17:04:17.000Z",
+      "updated": "2023-05-19T17:04:17.000Z",
+      "author": {
+        "id": "538450524537101570516514852059",
+        "privateId": 1082462326,
+        "name": "EIKOS Technology & Consulting",
+        "uri": "https://www.infojobs.net/eikos-technology-consulting/em-i538450524537101570516514852059",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a7/a78dbef9-3931-4a85-9195-c25e14ce7003?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwMDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hNy9hNzhkYmVmOS0zOTMxLTRhODUtOTE5NS1jMjVlMTRjZTcwMDMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.HlASuPrSkccGpp8mDxYbM1OSZQzFTyYgRnxsZt6w6wX-UN7f_6XKowOs7Rc6wKg_WElUlmDWTFSGHvyrbtCC0QOMWdK5YUm1Wkfw4dcSROLJ25PcPYuLaK57xpyMEflhpRucTJb4CbmrhdQxGZiabrHpctopEjZaIUeTr2sHoYZMrMUmD4EN7DKFqwBZYuc-WJAth6izWV6jx4506DRiDyk4Kqi4gZu1seZ55W-LGM-OJ8i7Qq12_poECfQWmmVyeoVMXzttQHPey8IhiR1WQVQo_7iiqctIjAp0TiUNuVqSIDeGZXU_sR5oLKI-K0sE6XJ2z4_-lH2GKaFWWWx3tg&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Solo es necesario experiencia en Kotlin mínima de 3 años",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "36.000€ - 40.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "53a093c69e4f2aae898f6616da1e18",
+      "title": "TÉCNICO INFORMÁTICO DE SISTEMAS Y REDES",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "San Fernando de Henares",
+      "link": "https://www.infojobs.net/san-fernando-de-henares/tecnico-informatico-sistemas-redes/of-i53a093c69e4f2aae898f6616da1e18",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 5,
+        "value": "Otros contratos"
+      },
+      "subcategory": {
+        "id": 3113,
+        "value": "Sistemas"
+      },
+      "salaryMin": {
+        "id": 1300,
+        "value": "20.000 €"
+      },
+      "salaryMax": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-17T11:52:17.000Z",
+      "updated": "2023-05-19T17:00:18.000Z",
+      "author": {
+        "id": "289452524532108000724124855569",
+        "privateId": 379550872,
+        "name": "TIPSA",
+        "uri": "https://tipsa.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/40/404ffa7f-8b28-4dfd-b82a-32a30cd05fda?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYxNjYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80MC80MDRmZmE3Zi04YjI4LTRkZmQtYjgyYS0zMmEzMGNkMDVmZGEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.OHfIvEQ22TXbi_oZVvhLcIdamkDYeHdWQhKH-Lx6GUMqT20IFzr2Cj0vAQQz6bdupisANP4gPpt0zUYhtX9Mg6BfHLZnpUOoc_dqULNBKMMuLD6jpYn-po_uGZTbBWM1gPNwrG6Vwul1fsp1TUI3sWsGf5h0WhS5Zr-YG_FpZrOXMznbBXwHUgibu-3aC1B8_rhL_ogTc5dO7aEsuGffqry7drA49tFKQxI_fOJjhak0-Blhxp1iXMOcQfohwdc5qzvOW4HD01zzSSyhS5WxNdx-N44mxP7F4v8lLqEEl8T-2SeD9fZpDlEruLU9VyO1xQtqQFCjlUM6dKimcxa70g&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Imprescindible: - Técnico Superior ASIR. - Conocimiento de Redes. - Persona dinámica y resolutiva.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "98693bc8264799b9e30cba223cd0d5",
+      "title": "DESARROLLADOR PHP",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "San Fernando de Henares",
+      "link": "https://www.infojobs.net/san-fernando-de-henares/desarrollador-php/of-i98693bc8264799b9e30cba223cd0d5",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 5,
+        "value": "Otros contratos"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 1300,
+        "value": "20.000 €"
+      },
+      "salaryMax": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-17T13:23:12.000Z",
+      "updated": "2023-05-19T17:00:08.000Z",
+      "author": {
+        "id": "289452524532108000724124855569",
+        "privateId": 379550872,
+        "name": "TIPSA",
+        "uri": "https://tipsa.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/40/404ffa7f-8b28-4dfd-b82a-32a30cd05fda?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYxNjYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy80MC80MDRmZmE3Zi04YjI4LTRkZmQtYjgyYS0zMmEzMGNkMDVmZGEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.OHfIvEQ22TXbi_oZVvhLcIdamkDYeHdWQhKH-Lx6GUMqT20IFzr2Cj0vAQQz6bdupisANP4gPpt0zUYhtX9Mg6BfHLZnpUOoc_dqULNBKMMuLD6jpYn-po_uGZTbBWM1gPNwrG6Vwul1fsp1TUI3sWsGf5h0WhS5Zr-YG_FpZrOXMznbBXwHUgibu-3aC1B8_rhL_ogTc5dO7aEsuGffqry7drA49tFKQxI_fOJjhak0-Blhxp1iXMOcQfohwdc5qzvOW4HD01zzSSyhS5WxNdx-N44mxP7F4v8lLqEEl8T-2SeD9fZpDlEruLU9VyO1xQtqQFCjlUM6dKimcxa70g&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Imprescindible: - Técnico Superior DAW ó DAM. - Persona dinámica y resolutiva. - Acostumbrada a la interlocución con clientes para integraciones.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "010c8bbe63453aac694768a101a4b7",
+      "title": "Jefe de ventas",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/jefe-ventas/of-i010c8bbe63453aac694768a101a4b7",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3114,
+        "value": "Telecomunicaciones"
+      },
+      "salaryMin": {
+        "id": 300,
+        "value": "42.000 €"
+      },
+      "salaryMax": {
+        "id": 450,
+        "value": "52.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 8,
+        "value": "Más de 10 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 147,
+        "value": "Máster"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-04-28T15:32:10.000Z",
+      "updated": "2023-05-19T17:00:02.000Z",
+      "author": {
+        "id": "74056a5b-9072-4e8c-9e03-fce7a007190b",
+        "privateId": 47914659592,
+        "name": "Multinacional Tecnológica",
+        "uri": "https://www.infojobs.net/multinacional-tecnologica/em-i74056a5b-9072-4e8c-9e03-fce7a007190b",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Experiencia en gestión de equipos comerciales a nivel Nacional * Orientación a objetivos de ventas, y satisfacción del cliente * Disponibilidad para viajar nacional e internacionalmente* Inglés biling??e  * Estudios Universitarios; Nuevas Tecnologías; Gestión de * Equipos y Management. * Manejo de aplicaciones informáticas y programas des gestión. * Dominio de Excel y gestión de Datos.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 31,
+      "executive": true,
+      "salaryDescription": "42.000€ - 52.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "e0f8b21f02475c87e1aeaf8eb8eaf2",
+      "title": "Desarrollador/a Back",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/desarrollador-back/of-ie0f8b21f02475c87e1aeaf8eb8eaf2",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryMax": {
+        "id": 295,
+        "value": "39.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 2,
+        "value": "Solo teletrabajo"
+      },
+      "published": "2023-05-19T16:58:01.000Z",
+      "updated": "2023-05-19T16:58:01.000Z",
+      "author": {
+        "id": "538450524537101570516514852059",
+        "privateId": 1082462326,
+        "name": "EIKOS Technology & Consulting",
+        "uri": "https://www.infojobs.net/eikos-technology-consulting/em-i538450524537101570516514852059",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a7/a78dbef9-3931-4a85-9195-c25e14ce7003?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwMDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hNy9hNzhkYmVmOS0zOTMxLTRhODUtOTE5NS1jMjVlMTRjZTcwMDMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.HlASuPrSkccGpp8mDxYbM1OSZQzFTyYgRnxsZt6w6wX-UN7f_6XKowOs7Rc6wKg_WElUlmDWTFSGHvyrbtCC0QOMWdK5YUm1Wkfw4dcSROLJ25PcPYuLaK57xpyMEflhpRucTJb4CbmrhdQxGZiabrHpctopEjZaIUeTr2sHoYZMrMUmD4EN7DKFqwBZYuc-WJAth6izWV6jx4506DRiDyk4Kqi4gZu1seZ55W-LGM-OJ8i7Qq12_poECfQWmmVyeoVMXzttQHPey8IhiR1WQVQo_7iiqctIjAp0TiUNuVqSIDeGZXU_sR5oLKI-K0sE6XJ2z4_-lH2GKaFWWWx3tg&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "33.000€ - 39.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "653937dafa4dcebc07cbf82ac5c135",
+      "title": "Desarrollador/a Front -VUE",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Madrid",
+      "link": "https://www.infojobs.net/madrid/desarrollador-front-vue/of-i653937dafa4dcebc07cbf82ac5c135",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 285,
+        "value": "33.000 €"
+      },
+      "salaryMax": {
+        "id": 295,
+        "value": "39.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 35,
+        "value": "Ciclo Formativo Grado Medio"
+      },
+      "teleworking": {
+        "id": 2,
+        "value": "Solo teletrabajo"
+      },
+      "published": "2023-05-19T16:46:28.000Z",
+      "updated": "2023-05-19T16:46:28.000Z",
+      "author": {
+        "id": "538450524537101570516514852059",
+        "privateId": 1082462326,
+        "name": "EIKOS Technology & Consulting",
+        "uri": "https://www.infojobs.net/eikos-technology-consulting/em-i538450524537101570516514852059",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/a7/a78dbef9-3931-4a85-9195-c25e14ce7003?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDExNjIwMDEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hNy9hNzhkYmVmOS0zOTMxLTRhODUtOTE5NS1jMjVlMTRjZTcwMDMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.HlASuPrSkccGpp8mDxYbM1OSZQzFTyYgRnxsZt6w6wX-UN7f_6XKowOs7Rc6wKg_WElUlmDWTFSGHvyrbtCC0QOMWdK5YUm1Wkfw4dcSROLJ25PcPYuLaK57xpyMEflhpRucTJb4CbmrhdQxGZiabrHpctopEjZaIUeTr2sHoYZMrMUmD4EN7DKFqwBZYuc-WJAth6izWV6jx4506DRiDyk4Kqi4gZu1seZ55W-LGM-OJ8i7Qq12_poECfQWmmVyeoVMXzttQHPey8IhiR1WQVQo_7iiqctIjAp0TiUNuVqSIDeGZXU_sR5oLKI-K0sE6XJ2z4_-lH2GKaFWWWx3tg&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Solo es necesario experiencia profesional en VUE mínima de 3 años",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "33.000€ - 39.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "14dd52ac4b466e8c2de6cbb592d2da",
+      "title": "INSTALADOR FTTH - LOGROÑO -",
+      "province": {
+        "id": 29,
+        "value": "La Rioja"
+      },
+      "city": "Logroño",
+      "link": "https://www.infojobs.net/logrono/instalador-ftth-logrono/of-i14dd52ac4b466e8c2de6cbb592d2da",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 5,
+        "value": "Otros contratos"
+      },
+      "subcategory": {
+        "id": 3114,
+        "value": "Telecomunicaciones"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 20,
+        "value": "Educación Secundaria Obligatoria"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-03-24T13:41:00.000Z",
+      "updated": "2023-05-19T16:30:02.000Z",
+      "author": {
+        "id": "66565257495448666983848008296206906002",
+        "privateId": 7636633006,
+        "name": "DIGI SPAIN TELECOM",
+        "uri": "https://digispaintelecom.ofertas-trabajo.infojobs.net",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/da/daae339e-e087-4135-b49e-ab8a2e5a1c93?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzYxNDQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kYS9kYWFlMzM5ZS1lMDg3LTQxMzUtYjQ5ZS1hYjhhMmU1YTFjOTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.eXFYDA6LuFGBagN2_hv4B1uPuSsc8PWYNmVt29Ap4msRwfPPcgl0cGKtNfeYs3a427OR0aORdv9oFkeEoVgMW4BDyRj8Y-BwElfYM_EA-4FCoiG3849tLcQm209gj9FK5Q0pkLmSNYz5H9lO3PmcdhhnEN57_l22mPuTR11ykmU7Db-VCpTaeJUvUA0bCWXzAWfPSN_hFR1aCCV77NVxbyQQckoYNMwy7uzAwtGjWs7u0zKzB9mHZGGXQSmMPjlJkedG6hq5YDtDRFPlq_TAAZiGSNdIsT7s8zdlSjm97pdE6c3BFGlgVCY5xKdYFXL7pIDGMVtPtZyHANRuSeJNDw&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Tus funciones serán las siguientes: · Instalación en domicilio de cliente de servicios de telefonía fija y banda ancha, sobre red de FTTH. · Mantenimiento y resolución de incidencias técnicas sobre la red física. · Gestión autónoma de la carga de trabajo /instalaciones diaria.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 23,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "310c09072a483fac41ec7e65e0ac47",
+      "title": "Dependient@/Comercial tienda Telecable en Oviedo",
+      "province": {
+        "id": 6,
+        "value": "Asturias"
+      },
+      "city": "Oviedo",
+      "link": "https://www.infojobs.net/oviedo/dependient-comercial-tienda-telecable-oviedo/of-i310c09072a483fac41ec7e65e0ac47",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3114,
+        "value": "Telecomunicaciones"
+      },
+      "salaryMin": {
+        "id": 255,
+        "value": "15.000 €"
+      },
+      "salaryMax": {
+        "id": 260,
+        "value": "18.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 20,
+        "value": "Educación Secundaria Obligatoria"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-04-14T14:25:07.000Z",
+      "updated": "2023-05-19T16:30:02.000Z",
+      "author": {
+        "id": "98515157565057661011103011113797604171",
+        "privateId": 10743554736,
+        "name": "Bencex",
+        "uri": "https://www.infojobs.net/bencex/em-i98515157565057661011103011113797604171",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7f/7fff4f93-98c5-46a4-b96a-eaaf3fb6db5a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTMxODI4MzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83Zi83ZmZmNGY5My05OGM1LTQ2YTQtYjk2YS1lYWFmM2ZiNmRiNWEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.QDEVOUM5INDAeZYv940D6bmL693Lk-Ys7kuJcO33BrDfe7zmLjhk7CyteX_Tm8lIxc5GGLTRtqcFF3gUxeDR7bu2rXA6h4VJK6iJcY3x5pa5qKSK3s7r2I0uZcCh0ihCkJOXKe7YWDbmcj7gg9cNA9qSZDTS3ItCT0XGVxodcv2pE74aRBFZgJ9kMY0EM5Zqt0-xXDd73OnLhGcfyXuzS8yV7tT6foQg2wDdK7-1XTiaMRBnfJXZ8YRWIJZRcpulEKfVFufPN3Kxcs1YMiYFvlE3wBQxrL9yBwcKwYlxR0CuO0exuk-Np8hevErWXoRR3ymGn_gdRYVXbXRSzxKHPg&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "PERFIL COMERCIAL ALTO, SE VALORARÁ MUY POSITIVAMENTE EXPERIENCIA PREVIA EN TELECABLE. IMPRESCINDIBLE EXPERIENCIA DEMOSTRABLE EN ATENCIÓN COMERCIAL Y CONOCIMIENTOS INFORMÁTICOS BÁSICOS. Preferencias y requisitos:  CONOCIMIENTO DE LOS PROGRAMAS DE TELECABLE. EXPERIENCIA COMERCIAL Y EN VENTA ENFOCADA A CONSECUCIÓN DE OBJETIVOS. SOLO SE TENDRÁN EN CUENTA CANDIDATOS DE LA LOCALIDAD PARA LA QUE ESTÁ PLANTEADA LA OFERTA.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 11,
+      "executive": false,
+      "salaryDescription": "15.000€ - 18.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "c3e0d211a747b3be0f0926bacc2b8a",
+      "title": "Software Developer .Net",
+      "province": {
+        "id": 21,
+        "value": "Granada"
+      },
+      "city": "Armilla",
+      "link": "https://www.infojobs.net/armilla/software-developer-.net/of-ic3e0d211a747b3be0f0926bacc2b8a",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "published": "2023-03-24T13:35:55.000Z",
+      "updated": "2023-05-19T16:30:02.000Z",
+      "author": {
+        "id": "965555524526202350263215450250",
+        "privateId": 48881211,
+        "name": "EXPERIAN BUREAU DE CRÉDITO",
+        "uri": "https://www.infojobs.net/experian-bureau-de-credito/em-i965555524526202350263215450250",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/64/64e3fadf-f5af-4242-95aa-55d34c0a382c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NzEwOTg3MjAsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy82NC82NGUzZmFkZi1mNWFmLTQyNDItOTVhYS01NWQzNGMwYTM4MmMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.F--cia2aL4hA5HPiiF8qE3RtpF76K020MPPHkZzQeQQju3j6RIjdPsbqO08wKFY-vzJ6DD1EBXeiXiTqEr9oRGtfWxSQ52AJbu_xhDX635H18SwGb-EM-aBg5RQzXOWzV4PzGeyXMMKfFSGQMmgySC8UP9z4Lrc15yq2IBPiVDD_s4c1d8YEvGcx1xSEkhP7YIdyev15mvfILvez4deUqZ4HMlbz8UyANh-eeSujtOZgZ8qK4c7fG2apxvxfyL1atCVxeOaFlv8mcJa9MgmQyuL3d-3CE1c-TaRmF7qhXUuVdHbh9YRIpu7ZWNGNxIePi2Xx7R6tInlrZShseq2dQA&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Ingeniería, Informática o Ciclo Formativo Experiencia de programación en .NET Conocimientos avanzados en Microsoft SQL Server, incluyendo SSIS. Diseño y configuración de soluciones de software.  Deseable conocimientos en Vue.js, API Rest y SOAP. Desarrollo web (HTML5, CSS-SASS, Typescript, Bootstrap)",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "959e921cc64c899f9e3f3ee1d701af",
+      "title": "Técnico/a senior de redes y sistemas",
+      "province": {
+        "id": 26,
+        "value": "Islas Baleares/Illes Balears"
+      },
+      "city": "Bunyola",
+      "link": "https://www.infojobs.net/bunyola/tecnico-senior-redes-sistemas/of-i959e921cc64c899f9e3f3ee1d701af",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3111,
+        "value": "Hardware, redes y seguridad"
+      },
+      "salaryMin": {
+        "id": 1330,
+        "value": "25.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-03-31T12:44:01.000Z",
+      "updated": "2023-05-19T16:00:03.000Z",
+      "author": {
+        "id": "98485548525053651009717016283717605097",
+        "privateId": 29241607998,
+        "name": "Adalmo sl",
+        "uri": "https://www.infojobs.net/adalmo-sl/em-i98485548525053651009717016283717605097",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/dd/ddcf1d3b-be5a-4d78-9af2-b8b4ed60d521?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NTg4NjIsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kZC9kZGNmMWQzYi1iZTVhLTRkNzgtOWFmMi1iOGI0ZWQ2MGQ1MjEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FnpCLJ2VI4RMvK2s0QMDL56uWivFe3px3zvACZQSfeX-EVv2vrqQBkxyWBPg2k6CYV_ldA_PyFBC3XoiDvm_lrnDkdiwBlHUaY8s8HQwoBuIghCbei-erVoqQ2WiNjQ8P-OUEFotTRkTfKVjbG5yEMzF9M6Ws3LsyY-86pu68OSm8avPcyxvWtwSd-BnFBfMWz2Lt7Pe5WWHK_yvUa9qCsi_sO2opk5aH1LqkzUAVZrTU4tNaot49rv-dVokbQ2MPi2JCaBfWGuJdMA0TQY9MGvIJQATWv_DYfh8vpiaDhLCHWckELfxCXvzy1yUlu_umJjH_qbOMNCIs-wLmq0EQw&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "Se requiere una experiencia previa mínima de 3 años demostrables en puestos similares al ofertado",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "25.000€ - 36.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "247e4198a946f18ec01e37c596712e",
+      "title": "Desarrollador/a Full Stack",
+      "province": {
+        "id": 33,
+        "value": "Madrid"
+      },
+      "city": "Leganés",
+      "link": "https://www.infojobs.net/leganes/desarrollador-full-stack/of-i247e4198a946f18ec01e37c596712e",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 1340,
+        "value": "26.000 €"
+      },
+      "salaryMax": {
+        "id": 290,
+        "value": "36.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-05T15:07:56.000Z",
+      "updated": "2023-05-19T16:00:02.000Z",
+      "author": {
+        "id": "98494857535655857885874023244490302186",
+        "privateId": 47856358338,
+        "name": "UNUWARE SL.",
+        "uri": "https://www.infojobs.net/unuware-sl./em-i98494857535655857885874023244490302186",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d0/d0ba2e45-6165-4696-b4ad-475941c6c72a?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2ODMzMDMwNjcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kMC9kMGJhMmU0NS02MTY1LTQ2OTYtYjRhZC00NzU5NDFjNmM3MmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mR18MxrnYW_NVhK3Fy-IgFl6PlnWpxPVN-mz8hmBNuh2OeZ4_ySBg9GCIOolburuo5XfB6Wnt6uXCEO9nTR6lDBQaD4BdcglKamFlgfy6YPd_IRYM-9cE3UiVcd8m1YkGTwgVp3EQDNJHGeskYtRTvAmBDQENAVtOCYWxcTaFOWXkXB3rBiMSfbNnrcbstKjX1ZXi14-OQyJjvf8jlZ4LuL3ASXjFOENjbeLUXeqkXCRTW2lZMgmrOLviVPINg6fsMwKxT-cLc8UP9DRU6VIflPg7sgzhF5MOQCzJoXudVWr7KqN4YO2c0gT-bUrKQ6RMh1tK1ZjV9QEOUjC0mO3bw&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "26.000€ - 36.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "b9e56b2bb9474e831c17eb706cd133",
+      "title": "Senior Backend developer for innovation projects",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/senior-backend-developer-for-innovation-projects/of-ib9e56b2bb9474e831c17eb706cd133",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 280,
+        "value": "30.000 €"
+      },
+      "salaryMax": {
+        "id": 960,
+        "value": "40.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 5,
+        "value": "Más de 5 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 130,
+        "value": "Ingeniería Superior"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-03-24T13:10:53.000Z",
+      "updated": "2023-05-19T16:00:02.000Z",
+      "author": {
+        "id": "98545350575156831129712012066570303702",
+        "privateId": 13562168384,
+        "name": "Sparsity Technologies",
+        "uri": "https://www.infojobs.net/sparsity-technologies/em-i98545350575156831129712012066570303702",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-5+ years of experience in Python and back-end development. - 3+ years of experience working with Django/Flask or similar web frameworks. - Strong unit test and debugging skills. - A good command of SQL and database technology. - Ability to integrate multiple data sources and databases into one system. - Proficient understanding of code versioning tools. - Strong knowledge of UNIX/Linux environments. - Experience working with Docker. - Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3. - Experience with repositories and ticketing systems (Bitbucket, Jira, GitHub, etc).",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "30.000€ - 40.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "ef62c0fead414cab3e25f50a5b36f0",
+      "title": "Desarrollador Java y Angular Fullstack (f/m)",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/desarrollador-java-angular-fullstack-f-m/of-ief62c0fead414cab3e25f50a5b36f0",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 6,
+        "value": "Al menos 2 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-19T15:52:49.000Z",
+      "updated": "2023-05-19T15:52:49.000Z",
+      "author": {
+        "id": "961557524526522102330135552142",
+        "privateId": 48892223,
+        "name": "T-Systems",
+        "uri": "https://www.infojobs.net/t-systems/em-i961557524526522102330135552142",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ab/abaac78a-3f4c-4e07-9a8f-b24cc476a93c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTY0NjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hYi9hYmFhYzc4YS0zZjRjLTRlMDctOWE4Zi1iMjRjYzQ3NmE5M2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Js-WZVsMVE1iCtJuqL7Hduit7yuU0WorQ463LlbdHJHs93O0udKB7M3VE5fSTuLbXNlpRrBr_mP3Vuxbyx1yjx6CEoOYdu8AO7VRNaQG2ubVnyGhAi81L53QxNq7Oft8zJ2ezcgefx2hJm0udAj8EQ9w3Rb8OwoBG080iFt5RrDOBDZRJO7vi6atenlynj_q31fuDflkcsw2SPVcHrAcuCxd6C0kwZFeEwoOkWyq8InsU99xTH66LYJtFdBbxPA4bSnsTwvxo-GnFToY7FZ_8czzZ-jWOhl2-ctE-QqlhzzG4zkNVlzNbnDuDrpZ5dXAILNHsPBs9G4tvRMZmY7-_A&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Mínimo 1 año de experiencia en Angular. - Mínimo 2 años de experiencia en SpringBoot",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "db3d8d9d2e4cfb96191d9caf32dec8",
+      "title": "Experto en Gobierno del Dato o Data Governance (f/m)",
+      "province": {
+        "id": 9,
+        "value": "Barcelona"
+      },
+      "city": "Barcelona",
+      "link": "https://www.infojobs.net/barcelona/experto-gobierno-del-dato-data-governance-f-m/of-idb3d8d9d2e4cfb96191d9caf32dec8",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3124,
+        "value": "Programación"
+      },
+      "salaryMin": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryMax": {
+        "id": 0,
+        "value": ""
+      },
+      "salaryPeriod": {
+        "id": 0,
+        "value": ""
+      },
+      "experienceMin": {
+        "id": 3,
+        "value": "Al menos 3 años"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 125,
+        "value": "Grado"
+      },
+      "teleworking": {
+        "id": 3,
+        "value": "Híbrido"
+      },
+      "published": "2023-05-19T15:48:02.000Z",
+      "updated": "2023-05-19T15:48:02.000Z",
+      "author": {
+        "id": "961557524526522102330135552142",
+        "privateId": 48892223,
+        "name": "T-Systems",
+        "uri": "https://www.infojobs.net/t-systems/em-i961557524526522102330135552142",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ab/abaac78a-3f4c-4e07-9a8f-b24cc476a93c?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTY0NjEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9hYi9hYmFhYzc4YS0zZjRjLTRlMDctOWE4Zi1iMjRjYzQ3NmE5M2MiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.Js-WZVsMVE1iCtJuqL7Hduit7yuU0WorQ463LlbdHJHs93O0udKB7M3VE5fSTuLbXNlpRrBr_mP3Vuxbyx1yjx6CEoOYdu8AO7VRNaQG2ubVnyGhAi81L53QxNq7Oft8zJ2ezcgefx2hJm0udAj8EQ9w3Rb8OwoBG080iFt5RrDOBDZRJO7vi6atenlynj_q31fuDflkcsw2SPVcHrAcuCxd6C0kwZFeEwoOkWyq8InsU99xTH66LYJtFdBbxPA4bSnsTwvxo-GnFToY7FZ_8czzZ-jWOhl2-ctE-QqlhzzG4zkNVlzNbnDuDrpZ5dXAILNHsPBs9G4tvRMZmY7-_A&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 31,
+      "executive": true,
+      "salaryDescription": "Salario no disponible",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    },
+    {
+      "id": "f50ab3ac3a45a985b114e1348f6c15",
+      "title": "Gestor/a de Proyectos IT",
+      "province": {
+        "id": 49,
+        "value": "Valencia/Val??ncia"
+      },
+      "city": "Valencia",
+      "link": "https://www.infojobs.net/valencia/gestor-proyectos-it/of-if50ab3ac3a45a985b114e1348f6c15",
+      "category": {
+        "id": 150,
+        "value": "Informática y telecomunicaciones"
+      },
+      "contractType": {
+        "id": 1,
+        "value": "Indefinido"
+      },
+      "subcategory": {
+        "id": 3110,
+        "value": "Gestión de proyectos"
+      },
+      "salaryMin": {
+        "id": 1300,
+        "value": "20.000 €"
+      },
+      "salaryMax": {
+        "id": 1310,
+        "value": "22.000 €"
+      },
+      "salaryPeriod": {
+        "id": 3,
+        "value": "Bruto/año"
+      },
+      "experienceMin": {
+        "id": 2,
+        "value": "Al menos 1 año"
+      },
+      "workDay": {
+        "id": 1,
+        "value": "Completa"
+      },
+      "study": {
+        "id": 60,
+        "value": "Ciclo Formativo Grado Superior"
+      },
+      "teleworking": {
+        "id": 1,
+        "value": "Presencial"
+      },
+      "published": "2023-05-19T15:45:58.000Z",
+      "updated": "2023-05-19T15:45:58.000Z",
+      "author": {
+        "id": "965751524526202050843215251119",
+        "privateId": 105031217,
+        "name": "ANANDA",
+        "uri": "https://www.infojobs.net/ananda/em-i965751524526202050843215251119",
+        "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d6/d6b052c3-3978-477b-9157-40035e73b025?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2Nzg0NDc0MTMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kNi9kNmIwNTJjMy0zOTc4LTQ3N2ItOTE1Ny00MDAzNWU3M2IwMjUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.eO3aQ4BW-A9bs1DJirXFzleCaVvBhj9OyMxdizfqN_QYO76EuM8txZ_SlMm-TWAKq0eFtAHkdcI26P3amqBevyURD5V1Wl6tMb5vrc9IcP8_n3yTxPEmchX0A-aBWv0hk4FzjhUDX26xOppAJmgLar_jlA8EEdxkaJaSPA4vF8ev-Gxdwf4esgzN3B0OqyypAY5uvNIm_GvLfiIKqiMXA1CGY2pBtBP8EM6EL0M3yo_fIlszzOrzhP4BU1fiBIiDLc9BGAoCI4tFQtigvl1WxvMBN4Mr3Rs0T1FmpSY6ZbIOv7tKUytG5Z3-0OvEsiDz9AUaTB8tpQK_GURK71E3nw&AccessKeyId=d724d9a53d95a810",
+        "corporateResponsive": false,
+        "showCorporativeHeader": false
+      },
+      "requirementMin": "-Titulación superior: Ingeniería informática, FP Superior en informática o similar. -Al menos 2 años de experiencia en gestión de proyectos tecnológicos.",
+      "bold": false,
+      "applications": "0",
+      "subSegment": 22,
+      "executive": false,
+      "salaryDescription": "20.000€ - 22.000€ Bruto/año",
+      "multiProvince": false,
+      "urgent": false,
+      "color": false
+    }
+  ]
+}
