@@ -50,7 +50,7 @@ export const PowerUp = () => {
         </Col>
 
         <Card>
-          <Text>Experiencia</Text>
+          <Text>Crear email o Carta de presentacion</Text>
         </Card>
       </Grid>
     </section>
