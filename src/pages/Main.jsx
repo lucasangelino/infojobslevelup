@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import { Grid, Col, Card, Text, Metric } from "@tremor/react";
+import { Link } from "react-router-dom";
+import { Grid, Col, TableRow, Card, Text, Metric, Button } from "@tremor/react";
 import { HackatonBanner } from "../components/shared/HackatonBanner";
 import { Star } from "../components/shared/Star";
 
@@ -17,7 +18,6 @@ export const Main = () => {
   return (
     <>
       <section className="flex flex-col">
-        <HackatonBanner />
         <h1 className="text-2xl md:text-4xl my-4">Ofertas de empleo</h1>
         <Grid numCols={1} numColsSm={1} numColsLg={3} className="gap-2">
           <Col numColSpan={1} numColSpanLg={2}>
@@ -33,7 +33,7 @@ export const Main = () => {
 
 const OfferCard = ({ offer }) => {
   return (
-    <Card className="">
+    <Card className="my-5">
       <div className="flex flex-row gap-2">
         <span className="text-xs text-white bg-[#167DB7] px-1 rounded-sm">
           Descatada
@@ -61,6 +61,15 @@ const OfferCard = ({ offer }) => {
         <span>Contrato indefinido</span>
         <span>Jornada complate</span>
         <span>salario no disponible</span>
+      </div>
+      <div className="p-2 flex flex-row justify-end">
+        <Link
+          to={`/power-up/${offer.id}`}
+          size="xs"
+          onClick={() => console.log("clicked")}
+        >
+          Power me 🐱‍🏍
+        </Link>
       </div>
     </Card>
   );
